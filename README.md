@@ -4,10 +4,13 @@ This is the Nexter project create with Jonas Schmedtmann course.
 ## Technologies 
 * HTML5
 * SCSS (BEM)
-* npm & npm scripts 
+* npm & npm scripts
+* Css grid
 
 ## What I'm learned? 
 * In this project I'm learned primarily css grid. 
+
+## Live
 https://nexter.netlify.com/
 
-![Design](https://ibb.co/N2hqLgB][img]https://i.ibb.co/4RyLjwr/nexter.png)
+![Design](https://i.ibb.co/HTvyrL8/nexter.png)
